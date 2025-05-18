@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": 0
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": 1
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["90°C", "80°C", "100°C", "70°C"],
+        "answer": 2
+    }
+]
